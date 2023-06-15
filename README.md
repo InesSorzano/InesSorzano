@@ -12,10 +12,10 @@
 </div>
 <hr>
 <div>
-  <img align="center" height="130" src="https://github-profile-trophy.vercel.app/?username=InesSorzano&title=Commits,Repositories&theme=dark_lover" />
-  <img align="center"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InesSorzano&layout=compact&theme=vision-friendly-dark" />
+  <img align="center" height="130" src="https://github-profile-trophy.vercel.app/?username=InesSorzano&title=Commits,Repositories&theme=dark_lover&no-frame=true" />
+  <img align="center"  height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=InesSorzano&layout=compact&theme=vision-friendly-dark&hide_border=true" />
   <br>
-  <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=InesSorzano&theme=dark&background=000000" />
+  <img align="center"  src="http://github-readme-streak-stats.herokuapp.com?user=InesSorzano&theme=dark&background=000000&hide_border=true" />
 </div>
 
 
