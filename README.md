@@ -5,14 +5,11 @@
 <h3 align="center">
 Hi there! I'm <a href="https://www.inessorzano.com" target="_blank" rel="noreferrer">Inés</a> 👋
 </h3>
-
 <h2 align="center">
-I'm a Full-Stack Junior Web Developer 💻 and hobbyst designer 🎨!
+I'm a Junior Full-Stack Web Developer 💻 
 </h2> 
+<h3 align="center">  🤝 Connect with me:  <a href="https://www.linkedin.com/in/ines-sorzano-5a2907208/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> </h4>
 
-### 🤝 Connect with me:  <a href="https://www.linkedin.com/in/ines-sorzano-5a2907208/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-
-</br>
 
 ## 🔭 I'm currently working on
 
