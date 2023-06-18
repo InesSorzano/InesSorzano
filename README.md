@@ -3,7 +3,7 @@
 </p> -->
 
 <h3 align="center">
-Hi there! I'm <a href="https://www.inessorzano.com" target="_blank" rel="noreferrer">Inés</a> 👋
+Hi there! I'm <a href="https://dev.inessorzano.com/" target="_blank" rel="noreferrer">Inés</a> 👋
 </h3>
 <h2 align="center">
 I'm a Junior Full-Stack Web Developer 💻 
