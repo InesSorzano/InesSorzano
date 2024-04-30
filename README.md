@@ -6,20 +6,10 @@
 Hi there! I'm <a href="https://dev.inessorzano.com/" target="_blank" rel="noreferrer">Inés</a> 👋
 </h3>
 <h2 align="center">
-I'm a Junior Full-Stack Web Developer 💻 
+I'm a Full-Stack Web Developer 💻 
 </h2> 
 <h3 align="center">  🤝 Connect with me:  <a href="https://www.linkedin.com/in/ines-sorzano-5a2907208/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> </h4>
 
-
-## 🔭 I'm currently working on
-
-- My portfolio :D 
-
-## 🌱 I'm currently learning
-
-- Vue3 / Nuxt3
-- C#
-- Design Patterns
 
 ## 💼 Technical Skills
 
@@ -38,19 +28,34 @@ I'm a Junior Full-Stack Web Developer 💻
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 
-</br>
+
 
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-
-## 📈 GitHub Stats 
-
-![Anurag's github stats](https://github-profile-trophy.vercel.app/?username=InesSorzano&title=Commits,Repositories&theme=dark_lover&no-frame=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesSorzano&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/InesSorzano)
-
-[![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=InesSorzano&theme=dark&background=000000&hide_border=true)](https://github.com/InesSorzano)
-
-<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=InesSorzano.InesSorzano)](https://www.yushi.dev/) -->
+<details>
+  <summary><h2>🌱 What am I doing </h2> </summary>
+    <div>
+      <h2> I'm currently working on</h2>
+        <ul>
+          <li> My portfolio :D </li>
+        </ul> 
+      <h2> I'm currently learning </h2>
+      <ul>
+        <li> Vue3 / Nuxt3 </li>
+        <li> Design Patterns </li>
+      </ul> 
+  </div>
+</details>
+<details>
+  <summary><h2> 📈 GitHub Stats</h2> </summary>
+  <div>
+    
+  ![Anurag's github stats](https://github-profile-trophy.vercel.app/?username=InesSorzano&title=Commits,Repositories&theme=dark_lover&no-frame=true)
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesSorzano&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/InesSorzano)
+  
+  [![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=InesSorzano&theme=dark&background=000000&hide_border=true)](https://github.com/InesSorzano)
+  </div>
+</details>
