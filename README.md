@@ -1,6 +1,4 @@
-<!-- <p align="center">
-  <a href="inessorzano.com" target="_blank" rel="noreferrer"><img src="" alt="my banner"></a>
-</p> -->
+<!-- O_O -->
 
 <h3 align="center">
 Hi there! I'm <a href="https://dev.inessorzano.com/" target="_blank" rel="noreferrer">Inés</a> 👋
@@ -8,7 +6,7 @@ Hi there! I'm <a href="https://dev.inessorzano.com/" target="_blank" rel="norefe
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻 
 </h2> 
-<h3 align="center">  🤝 Connect with me:  <a href="https://www.linkedin.com/in/ines-sorzano-5a2907208/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> </h4>
+<h3 align="center">  🤝 Connect with me:  <a href="https://www.linkedin.com/in/ines-sorzano-5a2907208/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Ines Sorzano | LinkedIn" width="21px"/></a> </h4>
 
 
 ## 💼 Technical Skills
@@ -28,14 +26,12 @@ I'm a Full-Stack Web Developer 💻
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
 
 
-
-
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
 <details>
-  <summary><h2>🌱 What am I doing </h2> </summary>
+  <summary>🌱 What am I doing  </summary>
     <div>
       <h2> I'm currently working on</h2>
         <ul>
@@ -49,7 +45,7 @@ I'm a Full-Stack Web Developer 💻
   </div>
 </details>
 <details>
-  <summary><h2> 📈 GitHub Stats</h2> </summary>
+  <summary> 📈 GitHub Stats </summary>
   <div>
     
   ![Anurag's github stats](https://github-profile-trophy.vercel.app/?username=InesSorzano&title=Commits,Repositories&theme=dark_lover&no-frame=true)
