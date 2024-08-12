@@ -1,7 +1,7 @@
 <!-- O_O -->
 
 <h3 align="center">
-Hi there! I'm <a href="https://dev.inessorzano.com/" target="_blank" rel="noreferrer">Inés</a> 👋
+Hi there! I'm Inés 👋
 </h3>
 <h2 align="center">
 I'm a Full-Stack Web Developer 💻 
