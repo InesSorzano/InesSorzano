@@ -10,23 +10,16 @@ I'm a Full-Stack Web Developer 💻
 
 
 ## 💼 Technical Skills
-
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=347D39)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=1572B6)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-Node-informational?style=flat&logo=NodeJS&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=336791)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-
-
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+<p align="left">
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/python.png" alt=python width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/js.png" alt=javascript width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/html5.png" alt=html5 width="60" height="60"/> 
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/node.png" alt=nodejs width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/django.png" alt=django width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/css3.png" alt=css3 width="60" height="60"/> 
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/git.png" alt=git width="60" height="60"/>
+    <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/github.png" alt=github width="60" height="60"/>
+</p>
 
 <img  z-index="9" align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI3aWRpa3Rhcno4b2MxbmxrdG95N3JzbGdvaTBuNWg1YTBkemF4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmBsnpDCuturMhtLfw/giphy.webp">
     <div>
@@ -36,7 +29,7 @@ I'm a Full-Stack Web Developer 💻
         </ul> 
       <h3> 📚 I'm currently learning </h3>
       <ul>
-        <li> Vue3 / Nuxt3 </li>
+        <li> <img height="30" src="https://vuejs.org/images/logo.png" alt="Vue logo"> Vue3 / Nuxt3  </li> 
       </ul> 
   </div>
 <br>
