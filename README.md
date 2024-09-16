@@ -19,8 +19,6 @@ I'm a Full-Stack Web Developer 💻
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
 
-</br>
-
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-TailwindCSS-informational?style=flat&logo=TailwindCSS&color=336791)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
@@ -30,28 +28,24 @@ I'm a Full-Stack Web Developer 💻
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
-<details>
-  <summary>🌱 What am I doing  </summary>
+<img  z-index="9" align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI3aWRpa3Rhcno4b2MxbmxrdG95N3JzbGdvaTBuNWg1YTBkemF4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmBsnpDCuturMhtLfw/giphy.webp">
     <div>
-      <h2> I'm currently working on</h2>
+      <h3> I'm currently working on</h3>
         <ul>
-          <li> My portfolio :D </li>
+          <li> My portfolio </li>
         </ul> 
-      <h2> I'm currently learning </h2>
+      <h3> I'm currently learning </h3>
       <ul>
         <li> Vue3 / Nuxt3 </li>
-        <li> Design Patterns </li>
       </ul> 
   </div>
-</details>
-<details>
+<br>
+  <details>
   <summary> 📈 GitHub Stats </summary>
-  <div>
     
   ![Anurag's github stats](https://github-profile-trophy.vercel.app/?username=InesSorzano&title=Commits,Repositories&theme=dark_lover&no-frame=true)
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InesSorzano&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/InesSorzano)
   
   [![Streak stats](http://github-readme-streak-stats.herokuapp.com?user=InesSorzano&theme=dark&background=000000&hide_border=true)](https://github.com/InesSorzano)
-  </div>
 </details>
