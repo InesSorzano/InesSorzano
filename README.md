@@ -21,7 +21,7 @@ I'm a Full-Stack Web Developer 💻
     <img style="margin: auto;" src="https://raw.githubusercontent.com/sachuverma/sachuverma/master/icons/github.png" alt=github width="60" height="60"/>
 </p>
 
-<img  z-index="9" align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI3aWRpa3Rhcno4b2MxbmxrdG95N3JzbGdvaTBuNWg1YTBkemF4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmBsnpDCuturMhtLfw/giphy.webp">
+<img align="right" alt="GIF" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXp4dXh6YmIydmNqNGx1bHhzd3EzNGVvd3JrcWF0Z3JmazVvOG00diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LHZyixOnHwDDy/giphy.webp">
     <div>
       <h3> 💻 I'm currently working on</h3>
         <ul>
