@@ -30,11 +30,11 @@ I'm a Full-Stack Web Developer 💻
 
 <img  z-index="9" align="right" alt="GIF" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnI3aWRpa3Rhcno4b2MxbmxrdG95N3JzbGdvaTBuNWg1YTBkemF4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmBsnpDCuturMhtLfw/giphy.webp">
     <div>
-      <h3> I'm currently working on</h3>
+      <h3> 💻 I'm currently working on</h3>
         <ul>
           <li> My portfolio </li>
         </ul> 
-      <h3> I'm currently learning </h3>
+      <h3> 📚 I'm currently learning </h3>
       <ul>
         <li> Vue3 / Nuxt3 </li>
       </ul> 
