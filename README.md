@@ -4,7 +4,7 @@
 Hi there! I'm Inés 👋
 </h3>
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻 
+I'm a Full-Stack 3D Web Developer 💻 
 </h2> 
 <h3 align="center">  🤝 Connect with me:  <a href="https://www.linkedin.com/in/ines-sorzano-5a2907208/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1024px-LinkedIn_icon.svg.png" alt="Ines Sorzano | LinkedIn" width="21px"/></a> </h4>
 
